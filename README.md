@@ -102,18 +102,6 @@ Missing V5 Count
 Untaxed Vehicles
 Pending Disposal
 PNP Data Integrity Issues
-📸 Screenshots
-Fleet Compliance Overview
-
-(Insert screenshot here)
-
-Missing V5 Analysis
-
-(Insert screenshot here)
-
-Operational Drilldown
-
-(Insert screenshot here)
 
 🚀 How to Use
 Use filters (top bar) to refine:
